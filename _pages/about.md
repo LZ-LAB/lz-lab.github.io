@@ -25,7 +25,6 @@ Hello, friend! Welcome!
 🔥 2026.01 -- 论文**KG-BiLM**被**CCF-A类顶级学术会议 WWW 2026 录用**.  
 🔥 2025.01 -- 论文**ReaLM**被**CCF-A类顶级学术会议 WWW 2026 录用**.  
 🔥 2025.11 -- 论文**rMMEA**被**CCF-A类顶级学术会议 AAAI 2026 录用**.  
-🔥 2025.11 -- 论文**rMMEA**被**CCF-A类顶级学术会议 AAAI 2026 录用**.  
 🔥 2025.07 -- 论文**OL-KGC**被**CCF-B类高水平会议 ISWC 2025 录用**.  
 🔥 2025.06 -- 论文**ConvE**被**CCF-A类顶级学术期刊 IEEE TKDE 2025 录用**.  
 🔥 2025.01 -- 论文**HyCubE**被**CCF-A类顶级学术期刊 IEEE TKDE 2025 录用**.  
