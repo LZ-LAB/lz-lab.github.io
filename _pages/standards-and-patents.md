@@ -19,3 +19,4 @@ author_profile: true
 
 ## Software Copyrights
 1. 金融风险预警与风险防控系统V1.0. 2024SR1189448.
+2. 个人客户信贷用信预测系统V1.0. 2022SR1125634.
