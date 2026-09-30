@@ -13,7 +13,7 @@ Hello, friend! Welcome!
 研究方向为人工智能与数字金融、大模型与知识图谱、知识表示与推理，已累计在IEEE TKDE、WWW、AAAI、IJCAI、CIKM、KBS等计算机科学与人工智能领域发表高水平学术论文近30篇，其中包括CCF-A/B、SCI一区Top论文20余篇、ESI热点论文1篇、ESI高被引论文1篇，Google Scholar引用660余次。作为核心成员制定和发布2项IEEE国际标准P2807.2、P2807.4，受理国家发明专利4项、授权1项，申请多项软件著作权。  
 牵头负责CCF-腾讯犀牛鸟精英人才项目、CAAI-华为MindSpore学术奖励基金研究项目、宁夏回族自治区重点研发计划项目重点项目、宁夏金融学会课题研究项目等多项纵向项目和横向项目，技术支持项目入选宁夏地区首批中国人民银行金融科技创新应用监管沙盒项目。  
 荣获博士研究生国家奖学金、宁夏金融学会课题研究二等奖、宁夏金融学会课题研究三等奖、天津大学优秀毕业生、石嘴山银行先进个人等奖项。  
-担任KDD、WWW、AAAI、CIKM、DASFAA、WISE、IEEE TKDE、EAAI、PR、Information Fusion、KBS、ESWA等高水平国际学术会议和SCI学术期刊程序委员会委员和审稿人。
+担任KDD、WWW、AAAI、CIKM、IEEE TKDE、PR、KBS、ESWA、EAAI、Information Fusion等高水平国际学术会议和SCI学术期刊程序委员会委员和审稿人。
 
 
 
