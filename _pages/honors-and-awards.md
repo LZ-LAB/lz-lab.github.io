@@ -23,6 +23,7 @@ author_profile: true
 
 
 ## Awards
+- 第十六届全国大学生电子商务“创新、创意及创业”挑战赛宁夏回族自治区省级选拔赛优秀指导老师（一等奖，“杞”智数联）
 - 宁夏金融学会课题研究项目二等奖, 2024
 - APWeb-WAIM 2022 Outstanding Student Paper Award, 2022
 - 宁夏金融学会课题研究项目三等奖, 2019
